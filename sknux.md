@@ -1,7 +1,7 @@
 ---
-title: /sknux
+title: 0x02 - (SK) sknux
 layout: page
-permalink: /sknux
+permalink: 0x02 - (SK) sknux
 ---
 
 # Peter principle
