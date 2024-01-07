@@ -4,7 +4,8 @@ layout: page
 permalink: 0x02 - (SK) sknux
 ---
 
-## Script(s) criados por mim com um grau relevante de utilidade:
+# Script(s) criados por mim com um grau relevante de utilidade:
+
 ```javascript
 Java.perform(function() {
     var currentActivity;
@@ -28,3 +29,16 @@ Java.perform(function() {
 
 ## References
 [Frida Codeshare - SK](https://codeshare.frida.re/@sknux/stacktracing-activities/)
+
+-------
+
+# Comando(s) úteis do adb (Android Debug Bridge)
+
+```shell
+adb shell install-multiples *.apk
+adb devices
+adb logcat (-c)
+```
+
+
+
